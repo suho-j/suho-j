@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://simpleicons.org/icons/dotnet.svg">
 <!--
 **suho-j/suho-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
