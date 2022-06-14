@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-#512BD4
+
+<img src="https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
