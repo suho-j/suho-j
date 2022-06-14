@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://simpleicons.org/icons/dotnet.svg" width="100" height="20">
+<img src="https://img.shields.io/badge/#512BD4?style=flat-square&logo=dotnet.svg&logoColor=white"/>
+<img src="https://simpleicons.org/icons/dotnet.svg" width="300" height="100">
 <!--
 **suho-j/suho-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
